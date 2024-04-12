@@ -1,0 +1,21 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Open+Sans:wght@300&display=swap");
+
+/* Base */
+@import url("./based/variables.css");
+@import url("./based/typography.css");
+@import url("./based/layout.css");
+
+/* Components */
+@import url("./components/footer.css");
+@import url("./components/navigation-bar.css");
+
+/* Sections */
+@import url("./sections/about.css");
+@import url("./sections/contact.css");
+@import url("./sections/hero.css");
+@import url("./sections/projects.css");
+@import url("./sections/technologies.css");
+
+
+
