@@ -1,3 +1,32 @@
-.projects {
-    background-color: blue;
+.projects .content-grid{
+  display:grid;
+  grid-template-columns: 1fr 2fr;
+  gap: var(--space-medium);
+}
+.project .item-grid{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap:var(--space-small)
+}
+
+/* media queries */
+
+/* Tablet */
+@media (min-width:550px){
+  .projects .items-grid{
+    grid-template-columns: repeat(3,ifr);
   }
+}
+
+@media (min-width:750px) {
+  .projects .items-grid{
+    grid-template-columns: repeat(4,ifr);
+  }
+}
+
+/* Desktop */
+@media (min-width: 750px) {
+  .projects .items-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
