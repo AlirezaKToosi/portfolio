@@ -6,10 +6,15 @@ import Hero from "./sections/Hero";
 import Projects from "./sections/Projects";
 import Technologies from "./sections/Technologies";
 import "./styles/style.css"
+import { useState } from "react";
+import Modal from "../src/components/Modal";
 
 
 
 export default function App() {
+    // Local state
+    const [modal, setModal] = useState(null);
+
   return (
     <div className="App">
       <NavigationBar />
@@ -19,6 +24,8 @@ export default function App() {
       <Technologies />
       <Contacts />
       <Footer />
+      {/* Modal invisible unless someone sents a React component using setModal() */}
+      <Modal state={[modal, setModal]} />
     </div>
   );
 }
