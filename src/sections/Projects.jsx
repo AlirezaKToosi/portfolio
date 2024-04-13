@@ -13,7 +13,7 @@ export default function Projects() {
         <h2>Projects</h2>
         <div className="content-grid">
           <p>Here are my projects .</p>
-          <div className="items-grid">{Items}</div>
+          <div className="items-grid">{items}</div>
         </div>
       </div>
     </section>
