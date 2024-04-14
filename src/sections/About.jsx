@@ -1,3 +1,4 @@
+// Project files
 import Image from "../assets/about.png";
 
 export default function About() {
@@ -6,6 +7,7 @@ export default function About() {
       <div className="container">
         <h2>About</h2>
         <div className="content">
+          <div>
           <p>
             Experienced developer proficient in Java, Object-Oriented
             Programming (OOP), Spring Framework, Hibernate, Docker, HTML, CSS,
@@ -27,6 +29,7 @@ export default function About() {
             exchanging ideas with teammates, continuously learning, and
             fostering a culture of excellence.
           </p>
+          </div>
           <img
             src={Image}
             alt="A blue all in one computer with some decoration elements"

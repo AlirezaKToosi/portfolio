@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Open+Sans:wght@300&display=swap");
 
 /* Base */
-@import url("./based/variables.css");
-@import url("./based/typography.css");
-@import url("./based/layout.css");
+@import url("./base/variables.css");
+@import url("./base/typography.css");
+@import url("./base/layout.css");
 
 /* Components */
 @import url("./components/footer.css");
@@ -18,6 +18,3 @@
 @import url("./sections/hero.css");
 @import url("./sections/projects.css");
 @import url("./sections/technologies.css");
-
-
-

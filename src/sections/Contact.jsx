@@ -1,9 +1,9 @@
-export default function Contacts() {
+export default function Contact() {
   return (
-    <div className="container">
-      <section className="contacts">
+    <section className="contact">
+      <div className="container">
         <h2>Contact</h2>
-      </section>
-    </div>
+      </div>
+    </section>
   );
 }

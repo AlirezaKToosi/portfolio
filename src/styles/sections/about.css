@@ -1,5 +1,7 @@
 .about {
+  
 }
+
 @media (min-width: 750px) {
   .about .content {
     display: grid;

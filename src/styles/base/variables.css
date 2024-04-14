@@ -1,0 +1,20 @@
+:root {
+  /* Colors */
+  --color-primary: #f0cc49; /* Ripe Lemon */
+  --color-secondary: #3d72a5; /* Jelly Bean */
+  --color-text-dark: #30290f;
+  --color-text-light: #ffffff;
+
+  /* Spacing */
+  --space-small: 8px;
+  --space-medium: 16px;
+  --space-big: 32px;
+
+  /* Border radious */
+  --border-radius: 4px;
+
+  /* Media queries */
+  /* mobile is default */
+  /* when min-width is bigger than 550px we are in table mode */
+  /* when min-width is bigger than 750px we are in desktop mode */
+}
