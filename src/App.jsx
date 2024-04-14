@@ -20,7 +20,7 @@ export default function App() {
       <NavigationBar />
       <Hero />
       <About />
-      <Projects />
+      <Projects setModal={setModal}/>
       <Technologies />
       <Contacts />
       <Footer />
