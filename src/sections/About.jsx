@@ -1,13 +1,10 @@
-// Project files
-import Image from "../assets/about.png";
-
 export default function About() {
   return (
-    <section className="about">
+    <section id="about">
       <div className="container">
         <h2>About</h2>
         <div className="content">
-          <div>
+          <div className="paragraphs">
           <p>
             Experienced developer proficient in Java, Object-Oriented
             Programming (OOP), Spring Framework, Hibernate, Docker, HTML, CSS,
@@ -29,11 +26,12 @@ export default function About() {
             exchanging ideas with teammates, continuously learning, and
             fostering a culture of excellence.
           </p>
+            <p>
+              Please take a look at my page and have a good time. I hope to hear
+              from you soon.
+            </p>
           </div>
-          <img
-            src={Image}
-            alt="A blue all in one computer with some decoration elements"
-          />
+          <img src="images/about.png" alt="A blue computer with decoration" />
         </div>
       </div>
     </section>

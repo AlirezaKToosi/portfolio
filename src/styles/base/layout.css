@@ -1,20 +1,25 @@
+* {
+  box-sizing: border-box; /* A global fix to about size issues when using padding or border */
+}
+
 body {
   margin: 0;
-  font-family: "Open Sans", sans-serif;
 }
 
 img {
   max-width: 100%;
   height: auto;
+  vertical-align: bottom; /* To remove a weird space glitch when putting text below images */
 }
 
 .container {
-  padding: var(--space-small);
+  padding: var(--space-big) var(--space-medium);
 }
 
 @media (min-width: 750px) {
   .container {
     max-width: 960px;
     margin: 0 auto;
+    padding: 64px var(--space-big);
   }
 }

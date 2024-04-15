@@ -1,5 +1,5 @@
 /* Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap");
 
 /* Base */
 @import url("./base/variables.css");
@@ -7,10 +7,17 @@
 @import url("./base/layout.css");
 
 /* Components */
+@import url("./components/anchor.css");
+@import url("./components/button.css");
 @import url("./components/footer.css");
 @import url("./components/navigation-bar.css");
+@import url("./components/item-contact.css");
 @import url("./components/item-project.css");
+@import url("./components/item-technology.css");
 @import url("./components/modal.css");
+@import url("./components/modal-project.css");
+@import url("./components/modal-technology.css");
+@import url("./components/navigation-bar.css");
 
 /* Sections */
 @import url("./sections/about.css");

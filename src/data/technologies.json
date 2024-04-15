@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "java",
+    "icon_name": "java",
+    "icon_style": "fab",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Amazon Web Services",
+    "icon_name": "aws",
+    "icon_style": "fab",
+    "description": ""
+  }
+]
