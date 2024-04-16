@@ -21,7 +21,7 @@ export default function App() {
       <Hero />
       <About />
       <Projects setModal={setModal} />
-      <Technologies />
+      <Technologies setModal={setModal} />
       <Contact />
 
       {/* Modal invisible unless someone sents a React component using setModal() */}

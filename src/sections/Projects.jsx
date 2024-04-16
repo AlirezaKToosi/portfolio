@@ -14,8 +14,8 @@ export default function Projects({ setModal }) {
         <h2>Projects</h2>
         <div className="content">
           <p>
-            Here are the projects I will be making during the frontend course at
-            Novare potential.
+            Here are the projects I have already done during the frontend and backend course at
+            Novare potential and Lexicon.
           </p>
           <div className="items">{Items}</div>
         </div>

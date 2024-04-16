@@ -4,13 +4,28 @@
     "title": "java",
     "icon_name": "java",
     "icon_style": "fab",
-    "description": ""
+    "description": "Java, Object-Oriented Programming (OOP), Spring Framework, Hibernate,"
   },
   {
     "id": 2,
     "title": "Amazon Web Services",
     "icon_name": "aws",
     "icon_style": "fab",
-    "description": ""
+    "description": "Docker,Amazon Web Services"
+  }
+  ,
+  {
+    "id": 3,
+    "title": "Java Script",
+    "icon_name": "js",
+    "icon_style": "fab",
+    "description": "HTML , CSS, ECMAScript, Publishing Web Pages, Code Structure, Manipulating DOM"
+  },
+  {
+    "id": 4,
+    "title": "React",
+    "icon_name": "react",
+    "icon_style": "fab",
+    "description": "SPA development, SASS, React JS, State Management, Routing"
   }
 ]

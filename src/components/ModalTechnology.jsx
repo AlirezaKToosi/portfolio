@@ -4,7 +4,7 @@ export default function ModalTechnology({ item }) {
   return (
     <div className="modal-technology">
       <h3>{title}</h3>
-      <p>{description}</p>
+      <h3>{description}</h3>
     </div>
   );
 }

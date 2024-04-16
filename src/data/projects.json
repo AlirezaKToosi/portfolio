@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "title": "Sokoban Game ( Team Project)",
+    "title": "Sokoban ( Team Project)",
     "description": "Sokoban is a classic puzzle game where the player pushes boxes around a maze, trying to put them in designated storage locations.",
-    "image_screenshot_url": "https://github.com/Cloticc/lexicon-react-game/raw/main/assets/MainScreen.jpg",
-    "image_thumb_url": "https://github.com/Cloticc/lexicon-react-game/raw/main/assets/MainScreen.jpg",
+    "image_screenshot_url": "src/assets/Sokoban-detail.jpg",
+    "image_thumb_url": "src/assets/sokoban.jpg",
     "link_github": "https://github.com/Cloticc/lexicon-react-game",
     "link_website": ""
   },
   {
     "id": 2,
-    "title": "Tredara Online Auction Platform ( Team Project)",
-    "description": "Tredara is a revolutionary online auction platform that aims to transform the secondhand market by bringing it to the internet. This program is designed to sell items through bidding so that the customer who bids the most by the end date receives the product.",
-    "image_screenshot_url": "https://github.com/OlgaPinchuk/Tredara-frontend/blob/main/src/assets/images/sign-up.jpg",
-    "image_thumb_url": "https://github.com/OlgaPinchuk/Tredara-frontend/blob/main/src/assets/images/sign-up.jpg",
+    "title": "Tradara ( Team Project)",
+    "description": "Tredara is a revolutionary online auction platform that aims to transform the secondhand market by bringing it to the internet.",
+    "image_screenshot_url":"src/assets/Tradara.jpg",
+    "image_thumb_url": "src/assets/Tradara.jpg",
     "link_github": "https://github.com/AlirezaKToosi/Tredara",
     "link_website": ""
   },
   {
     "id": 3,
     "title": "Natflix--backend",
-    "description": "Natflix functions as a Spring Boot application that establishes a connection with a MySQL database and serves as a server for the Natflix frontend and offering a diverse selection of movies, series, and documentaries.",
-    "image_screenshot_url": "https://github.com/AlirezaKToosi/Natflix--Frontend/blob/main/src/assets/images/background.jpg",
-    "image_thumb_url": "https://github.com/AlirezaKToosi/Natflix--Frontend/blob/main/src/assets/images/background.jpg",
+    "description": "Natflix offering a diverse selection of movies, series, and documentaries.",
+    "image_screenshot_url":"src/assets/Natflix.jpg" ,
+    "image_thumb_url": "src/assets/Natflix.jpg",
     "link_github": "https://github.com/Nermeen-M/eika-shopping-list",
     "link_website": ""
   }

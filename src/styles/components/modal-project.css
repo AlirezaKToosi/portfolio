@@ -6,6 +6,11 @@
 .modal-project .content {
   padding: var(--space-medium);
 }
+.modal-project img{
+  aspect-ratio: 4 / 3;
+  object-fit: scale-down;
+  border: solid var(--border-width) transparent;
+}
 
 /* Tablet */
 @media (min-width: 550px) {

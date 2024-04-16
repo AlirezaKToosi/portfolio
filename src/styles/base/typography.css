@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: var(--space-small);
 }
 
@@ -47,7 +47,7 @@ p {
   }
 
   h3 {
-    font-size: 28px;
+    font-size: 18px;
     margin-bottom: var(--space-medium);
   }
 

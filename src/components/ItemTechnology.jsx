@@ -2,7 +2,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Project file
-import ModalTechnology from "../components/ModalTechnology";
+import ModalTechnology from "./ModalTechnology";
 
 export default function ItemTechnology({ item, setModal }) {
   const { icon_style, icon_name, title } = item;

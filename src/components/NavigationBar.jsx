@@ -1,7 +1,8 @@
 // Node modules
-import { faL } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
+
+import "../scripts/fontawesome"
 
 export default function NavigationBar() {
   // Local state
@@ -20,7 +21,7 @@ export default function NavigationBar() {
         >
           <FontAwesomeIcon className="icon" icon={["fas", "fa-bars"]} />
         </button>
-        <span className="name">Eduardo Alvarez</span>
+        <span className="name">Alireza KafshdarToosi</span>
       </div>
 
       <div className={`links ${cssToggle}`}>
