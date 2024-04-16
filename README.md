@@ -24,7 +24,8 @@ The images where taken from Unsplash
 
 1. **person holding smartphone beside tablet computer** Photo by [Blake Wisz](https://unsplash.com/@blakewisz) on [Unsplash](https://unsplash.com/photos/person-holding-smartphone-beside-tablet-computer-Xn5FbEM9564)
 2. **black-flat-screen-tv-turned-on-displaying-man-in-black-suit** Photo by [Alin Surdu](https://unsplash.com/@alinsurdu3) on [Unsplash](https://unsplash.com/photos/black-flat-screen-tv-turned-on-displaying-man-in-black-suit-j5GCqQM3eYA)
+3. **silver-macbook-beside-orange-fruit-on-brown-wooden-table** Photo by [Dylan Gillis](https://unsplash.com/@dylandgillis) on [Unsplash](https://unsplash.com/photos/silver-macbook-beside-orange-fruit-on-brown-wooden-table-o1T-KexJWaU)
 
 ### Icons
 
-The icons where taken from (Fontawesome.com)[https://www.fontawesome.com]. I do posses a valid Pro licence to use any icons. So there is no need to give individual credit for each icon.
+The icons where taken from (Fontawesome.com)[https://www.fontawesome.com]. I used free icons. So there is no need to give individual credit for each icon.
