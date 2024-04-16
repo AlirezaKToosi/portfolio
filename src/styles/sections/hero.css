@@ -4,17 +4,17 @@
   justify-content: center;
   align-items: center;
   height: 90vh;
-  background-image: url("../../../public/images/hero-background-mobile.jpg");
+  background-image: url("../../assets/hero-background-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--color-secondary);
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
 /* Desktop */
 @media (min-width: 750px) {
   #hero {
-    background-image: url("../../../public/images/hero-background-desktop.jpg");
+    background-image: url("../../assets/hero-background-desktop.jpg");
   }
 }

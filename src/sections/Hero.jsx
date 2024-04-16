@@ -3,9 +3,9 @@ export default function Hero() {
     <section id="hero">
       <div className="container">
         <h1>
-          Hi I’m
+          Hi 
           <br />
-          Alireza
+          I’m Alireza
         </h1>
         <p className="subtitle">
           A Fullstack developer 
