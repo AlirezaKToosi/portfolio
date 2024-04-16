@@ -23,6 +23,7 @@ You need to have at least Node version 16 to run.
 The images where taken from Unsplash
 
 1. **person holding smartphone beside tablet computer** Photo by [Blake Wisz](https://unsplash.com/@blakewisz) on [Unsplash](https://unsplash.com/photos/person-holding-smartphone-beside-tablet-computer-Xn5FbEM9564)
+2. **black-flat-screen-tv-turned-on-displaying-man-in-black-suit** Photo by [Alin Surdu](https://unsplash.com/@alinsurdu3) on [Unsplash](https://unsplash.com/photos/black-flat-screen-tv-turned-on-displaying-man-in-black-suit-j5GCqQM3eYA)
 
 ### Icons
 
