@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   height: 90vh;
-  background-image: url("../../assets/hero-background-mobile.jpg");
+  background-image: url("/assets/hero-background-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--color-secondary);
@@ -15,6 +15,6 @@
 /* Desktop */
 @media (min-width: 750px) {
   #hero {
-    background-image: url("../../assets/hero-background-desktop.jpg");
+    background-image: url("/assets/hero-background-desktop.jpg");
   }
 }

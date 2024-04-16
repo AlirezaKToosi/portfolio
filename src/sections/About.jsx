@@ -1,3 +1,4 @@
+import img from "/assets/AboutMe.jpg"
 export default function About() {
   return (
     <section id="about">
@@ -14,7 +15,7 @@ export default function About() {
             </p>
           </div>
           <img
-            src="src/assets/AboutMe.jpg"
+            src={img}
             alt="silver-macbook-beside-orange-fruit-on-brown-wooden-table"
           />
         </div>
