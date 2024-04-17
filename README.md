@@ -2,6 +2,9 @@
 
 This is a React portfolio project.
 
+## Demo
+You can see a sample of the website here: https://portfolio-5e34a.web.app/
+
 ## Tech stack
 
 - Node 16 LTS
